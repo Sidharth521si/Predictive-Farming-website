@@ -8,19 +8,19 @@ Farmers can upload images of diseased leaves, and the system uses a trained deep
 Role-Based Access
 The platform includes modules for:
 
-Admin: Manages users and data
+  *Admin: Manages users and data
 
-Expert: Offers verified solutions for disease treatment
+  *Expert: Offers verified solutions for disease treatment
 
-Farmer: Uploads leaf images, checks predictions, and lists products for sale
+  *Farmer: Uploads leaf images, checks predictions, and lists products for sale
 
-User: Browses and purchases products
+  *User: Browses and purchases products
 
-Farmer Marketplace
-Enables farmers to sell products directly to users, reducing dependency on middlemen and improving their income.
+*Farmer Marketplace
+   Enables farmers to sell products directly to users, reducing dependency on middlemen and improving their income.
 
-Real-Time Communication
-Experts and farmers can interact within the platform to discuss diagnosis and treatments.
+*Real-Time Communication
+     Experts and farmers can interact within the platform to discuss diagnosis and treatments.
 
 🛠️ Tech Stack
 Frontend: HTML, CSS, Bootstrap
